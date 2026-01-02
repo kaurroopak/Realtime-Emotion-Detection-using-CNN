@@ -1,7 +1,7 @@
 # 😊 Real-Time Mood Detection System  
 ### ELC Mini Project – 5th Semester  
 **Course:** Experiential Learning Component (ELC)  
-**Domain:** Real-Time Data Analysis & AI  
+**Domain:** Real-Time Data Analysis 
 
 ---
 
