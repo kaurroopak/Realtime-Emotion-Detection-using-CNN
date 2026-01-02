@@ -117,7 +117,7 @@ Blurring reduced confidence and increased misclassification, demonstrating the m
 pip install -r requirements.txt
 
 ### 2. Run the Application
-'''bash
+```bash
 streamlit run app.py
 
 ---
