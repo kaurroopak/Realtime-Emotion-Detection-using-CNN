@@ -116,33 +116,41 @@ Blurring reduced confidence and increased misclassification, demonstrating the m
 ```bash
 pip install -r requirements.txt
 
-### 2. Run the Application
-```bash
-streamlit run app.py
+### 2️⃣ Run the Application
 
----
+Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   streamlit run app.py   `
 
-## 🧾 Technologies Used
+🧾 Technologies Used
+--------------------
 
-- **Python**
-- **TensorFlow & TensorFlow Lite**
-- **OpenCV**
-- **Streamlit**
-- **NumPy**
-- **Pandas**
-- **PIL (Pillow)**
+*   **Python**
+    
+*   **TensorFlow & TensorFlow Lite**
+    
+*   **OpenCV**
+    
+*   **Streamlit**
+    
+*   **NumPy**
+    
+*   **Pandas**
+    
+*   **PIL (Pillow)**
+    
 
----
+📌 Key Learnings
+----------------
 
-## 📌 Key Learnings
+*   Practical understanding of real-time AI model deployment
+    
+*   Importance of dataset quality and the impact of domain shift
+    
+*   Behavioral analysis of CNN models under unexpected inputs
+    
+*   Trade-offs between model accuracy and real-world robustness
+    
 
-- Practical understanding of real-time AI model deployment  
-- Importance of dataset quality and the impact of domain shift  
-- Behavioral analysis of CNN models under unexpected inputs  
-- Trade-offs between model accuracy and real-world robustness  
+🏁 Conclusion
+-------------
 
----
-
-## 🏁 Conclusion
-
-This project demonstrates an end-to-end real-time AI system, covering dataset exploration, model training, deployment, and behavioral analysis. It highlights both the strengths and limitations of facial emotion recognition systems in real-world conditions and successfully fulfills all the requirements of the ELC assessment modules.
+This project demonstrates an end-to-end real-time AI system, covering dataset exploration, model training, deployment, and behavioral analysis. It highlights both the strengths and limitations of facial emotion recognition systems in real-world conditions and successfully fulfills all requirements of the **ELC assessment modules**.
