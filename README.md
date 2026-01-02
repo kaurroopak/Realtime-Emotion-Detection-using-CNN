@@ -143,8 +143,7 @@ streamlit run app.py
 - Behavioral analysis of CNN models under unexpected inputs  
 - Trade-offs between model accuracy and real-world robustness  
 
----
+🏁 Conclusion
+-------------
 
-## 🏁 Conclusion
-
-This project demonstrates an end-to-end real-time AI system, covering dataset exploration, model training, deployment, and behavioral analysis. It highlights both the strengths and limitations of facial emotion recognition systems in real-world conditions and successfully fulfills all the requirements of the ELC assessment modules.
+This project demonstrates an end-to-end real-time AI system, covering dataset exploration, model training, deployment, and behavioral analysis. It highlights both the strengths and limitations of facial emotion recognition systems in real-world conditions and successfully fulfills all requirements of the **ELC assessment modules**.
